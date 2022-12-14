@@ -1,0 +1,36 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Abdirizak Mohamed",
+        "email": "abdirizakm123@gmail.com",
+        "password": 463433
+      },
+      {
+        "id": 2,
+        "name": "Alex John",
+        "image": "alex.john@gmail.com",
+        "password": 463433
+      },
+      {
+        "id": 3,
+        "name": "Lizz Paul",
+        "email": "lizz@hotmail.com",
+        "password": 463433
+      },
+      {
+        "id": 4,
+        "name": "Ahmed Maalim",
+        "email": "ahmed34@outlook.com",
+        "password": 463433
+      },
+      {
+        "id": 5,
+        "name": "Borris Johnson",
+        "email": "borris@gov.uk",
+        "password": 463433
+      }
+    ]
+   }
+   
+   
